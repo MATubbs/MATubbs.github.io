@@ -1,0 +1,27 @@
+/*
+This is the global CSS styling file. Be *very careful* when changing things in here, and always be able to reverse it. Always try to put a description of the purpose of your styling.
+*/
+
+
+
+/*
+Pads the top of all pages to make up for the space the navbar takes. Also pads the bottom of all pages to stop text from being right at the bottom.
+*/
+body {
+    padding-top:55px;
+    padding-bottom:25px;
+}
+
+.container-fluid {
+    padding-left:50px  !important;
+    padding-right:50px  !important;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  background-color: #f5f5f5;
+}
