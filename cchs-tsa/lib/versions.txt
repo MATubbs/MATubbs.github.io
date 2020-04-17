@@ -1,0 +1,4 @@
+Bootstrap: v4.2.1
+jQuery: v3.3.1
+particles.js: v2.2.3
+Popper: v1.14.6
