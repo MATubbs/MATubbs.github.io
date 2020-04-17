@@ -1,6 +1,6 @@
 # This repo has been archived and will not be updated. We have submitted our entry to TSA nationals.
 # __CCHS-TSA__
-
+# This repository is a clone of the original site to ensure that it is preserved
 [![Bulma](https://bulma.io/images/made-with-bulma--black.png)](https://bulma.io)
 
 This is the repo for Chamblee Charter High School's Webmaster entry for TSA
